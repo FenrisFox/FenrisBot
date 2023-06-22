@@ -1,0 +1,25 @@
+{
+  "name": "fenrisbot",
+  "version": "1.0.0",
+  "description": "simple discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FenrisFox/FenrisBot.git"
+  },
+  "author": "FenrisFox86",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FenrisFox/FenrisBot/issues"
+  },
+  "homepage": "https://github.com/FenrisFox/FenrisBot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  }
+}
